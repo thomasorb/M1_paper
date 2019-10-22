@@ -1,0 +1,4 @@
+numpy
+ipywidgets
+nbinteract
+k3d
