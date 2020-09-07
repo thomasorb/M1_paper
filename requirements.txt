@@ -1,6 +1,6 @@
 numpy
 ipywidgets
 nbinteract
-k3d
+pyvista
 astropy
 matplotlib
